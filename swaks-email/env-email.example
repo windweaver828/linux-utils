@@ -1,0 +1,8 @@
+SMTP_TO='toemail@example.com'
+SMTP_FROM='fromemail@example.com'
+SMTP_SERVER='smtp.example.com'
+# Port usually 465 (ssl/tls, recommended) or 587 (STARTTLS, wider compatibility)
+SMTP_PORT='465'
+SMTP_AUTH_USER='authuser@example.com'
+SMTP_PASSWORD='smtp_app_password_or_password'
+SMTP_HELO='example.org'
